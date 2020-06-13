@@ -8,13 +8,4 @@ Sample website with plenty of files for demos
 
 ## helloo
 
-hrloooo 
-f
-f
-f
-ff
-f
-bb
-b
-
-bb
+helloooooo
